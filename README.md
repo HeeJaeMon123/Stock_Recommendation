@@ -1,4 +1,4 @@
-# Stock_Recommendation using sentiment analysis(감정 분석) Project
+# Stock_Recommendation using Sentiment Analysis(감정 분석) Project
 
 
 ## Stock_Recommendation by TextBlob
