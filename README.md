@@ -60,6 +60,14 @@
 
   <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/wordcloud.PNG width="30%" height="30%">
 
+- Data cleaning finish
+
+  <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/finish.PNG width="80%" height="30%">
+
+- Wordcloud로 출력
+
+  <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/10.PNG width="30%" height="30%">
+
 - Sentiment Analysis 진행(1에 가까울수록 긍정)
 
   <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/sentiment.PNG width="30%" height="30%">
