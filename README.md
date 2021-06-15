@@ -62,4 +62,5 @@
 
 ## 참고 링크
 크롤링시 twint 사용 https://github.com/twintproject/twint
+
 https://github.com/erikajane/Predicting_Stock_With_Twitter_Sentiment
