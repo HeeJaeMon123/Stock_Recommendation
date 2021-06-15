@@ -38,7 +38,7 @@
 - sentiment anaylsis (완료)
 
 ## Goal
-- 사용자가 언제부터 언제까지 크롤링 할지(예를 들어 2021-06-09부터 2021-06-12내용을 크롤링 하겠다.), 그리고 추천 받고 싶은 회사의 이름을 입력하면 아래 사진들과 같이 추천을 해주는 프로그램을 만드는 것.
+- 사용자가 언제부터 언제까지 크롤링 할지(예를 들어 2021-06-09부터 2021-06-12내용을 크롤링 하겠다.), 그리고 추천 받고 싶은 회사의 이름을 입력하면 아래 사진들과 같이 추천을 해주는 프로그램을 만드는 것입니다.
 <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/Buy.PNG width="30%" height="30%">
 
 <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/Not_Buy.PNG width="30%" height="30%">
@@ -47,16 +47,19 @@
 ## How it works? 
 - twint를 이용해 크롤링을 합니다. 
 
-<img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/%ED%81%AC%EB%A1%A4%EB%A7%81%20%EA%B2%B0%EA%B3%BC.PNG width="80%" height="30%">
+  <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/%ED%81%AC%EB%A1%A4%EB%A7%81%20%EA%B2%B0%EA%B3%BC.PNG width="80%" height="30%">
 
 - Data cleaning
-<img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/data%20cleaning.PNG width="80%" height="30%">
+
+  <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/data%20cleaning.PNG width="80%" height="30%">
 
 - wordcloud로 중간 작업 출력
-<img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/wordcloud.PNG width="30%" height="30%">
+
+  <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/wordcloud.PNG width="30%" height="30%">
 
 - sentiment analysis 진행(1에 가까울수록 )
-<img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/sentiment.PNG width="30%" height="30%">
+
+  <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/sentiment.PNG width="30%" height="30%">
 
 
 
