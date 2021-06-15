@@ -65,11 +65,12 @@
   <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/finish.PNG width="80%" height="30%">
 
 
-    위의 그림에서 ev나 de, e 같은 불용어 처럼 보이는 것을 제거하지 않은 이유는 (lol같이) 제가 모르는 감탄사 일수도 있을것 같아 제거하지 않았습니다. 
     
 - Wordcloud로 출력
 
   <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/10.PNG width="30%" height="30%">
+
+    위의 그림에서 ev나 de, e 같은 불용어 처럼 보이는 것을 제거하지 않은 이유는 (lol같이) 제가 모르는 감탄사 일수도 있을것 같아 제거하지 않았습니다. 
 
 - Sentiment Analysis 진행(1에 가까울수록 긍정)
 
