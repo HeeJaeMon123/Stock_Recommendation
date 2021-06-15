@@ -37,14 +37,17 @@
 - Data Cleaning (완료)
 - Sentiment Anaylsis (완료)
 
-## Goal
-- 사용자가 언제부터 언제까지 크롤링 할지(예를 들어 2021-06-09부터 2021-06-12내용을 크롤링 하겠다.), 그리고 추천 받고 싶은 회사의 이름을 입력하면 아래 사진들과 같이 추천을 해주는 프로그램을 만드는 것입니다.
+## 소개 및 결과 이미지
+- 사용자가 언제부터 언제까지 크롤링 할지(예를 들어 2021-06-09부터 2021-06-12내용을 크롤링 하겠다.), 그리고 추천 받고 싶은 회사의 이름을 입력하면 감정분석을 진행하고 긍정적 tweet의 개수가 부정적 tweet의 개수의 3배 보다 많으면 추천을 해주는 프로그램을 만드는 것입니다.
 <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/Buy.PNG width="30%" height="30%">
 
 <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/Not_Buy.PNG width="30%" height="30%">
 
+## 특징
+- 감정 지수(점수)는 -1~1까지 있는데 1에 가까울수록 긍정, -1에 가까울수록 부정입니다. 만약 감정 점수가 0.2이상 이라면 pos_score를 1씩 증가시키고 -0.2이하라면 neg_score를 1씩 증가시키고 pos_score가 neg_score의 3배 보다 많으면 YES_BUY + 회사이름을 wordcloud에 출력
 
-## How it works? 
+
+## How it works? (기능 부분)
 - twint를 이용해 크롤링을 합니다. 
 
   <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/%ED%81%AC%EB%A1%A4%EB%A7%81%20%EA%B2%B0%EA%B3%BC.PNG width="80%" height="30%">
