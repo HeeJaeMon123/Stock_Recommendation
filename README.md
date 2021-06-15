@@ -52,7 +52,7 @@
 
   <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/%ED%81%AC%EB%A1%A4%EB%A7%81%20%EA%B2%B0%EA%B3%BC.PNG width="80%" height="30%">
 
-- Data cleaning
+- Data cleaning(학습에 도움 되지 않는 단어들(링크, 리트윗) 제거, 모든 tweet 소문자로 만들어주기, lemmatize 진행, stopwords 제거)
 
   <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/data%20cleaning.PNG width="80%" height="30%">
 
@@ -60,7 +60,7 @@
 
   <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/wordcloud.PNG width="30%" height="30%">
 
-- Data cleaning finish
+- Data cleaning finish(회사이름 , 회사 ceo 이름 제거)
 
   <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/finish.PNG width="80%" height="30%">
 
