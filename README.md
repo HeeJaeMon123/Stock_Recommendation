@@ -57,7 +57,7 @@
 
   <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/wordcloud.PNG width="30%" height="30%">
 
-- sentiment analysis 진행(1에 가까울수록 )
+- sentiment analysis 진행(1에 가까울수록 긍정)
 
   <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/sentiment.PNG width="30%" height="30%">
 
