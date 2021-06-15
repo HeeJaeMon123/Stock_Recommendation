@@ -44,7 +44,7 @@
 <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/Not_Buy.PNG width="30%" height="30%">
 
 ## 특징
-- 감정 지수(점수)는 -1~1까지 있는데 1에 가까울수록 긍정, -1에 가까울수록 부정입니다. 만약 감정 점수가 0.2이상 이라면 pos_score를 1씩 증가시키고 -0.2이하라면 neg_score를 1씩 증가시키고 pos_score가 neg_score의 3배 보다 많으면 YES_BUY + 회사이름을 wordcloud에 출력
+- 감정 지수(점수)는 -1~1까지 있는데 1에 가까울수록 긍정, -1에 가까울수록 부정입니다. 여기서 저만의 지표를 만들었는데 소개에서 말했듯이 만약 감정 점수가 0.2이상 이라면 pos_score를 1씩 증가시키고 -0.2이하라면 neg_score를 1씩 증가시키고 pos_score가 neg_score의 3배 보다 많으면 YES_BUY + 회사이름을 wordcloud에 출력
 
 
 ## How it works? (기능 부분)
