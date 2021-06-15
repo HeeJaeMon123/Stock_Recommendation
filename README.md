@@ -29,13 +29,13 @@
 
   + Bing Lui 어휘사전은 6,800개 단어로 구성되어 있는데 positive-words.txt는 2,000 단어/구문, negative-words.txt에는 4,800 단어/구문이 포함되어 있습니다.
 
-프로젝트에서는 TextBlob을 사용하였다.
+프로젝트에서는 TextBlob을 사용하였습니다.
 
 ## TO DO LIST
 
 - 트위터 크롤링 (완료)
-- data cleaning (완료)
-- sentiment anaylsis (완료)
+- Data Cleaning (완료)
+- Sentiment Anaylsis (완료)
 
 ## Goal
 - 사용자가 언제부터 언제까지 크롤링 할지(예를 들어 2021-06-09부터 2021-06-12내용을 크롤링 하겠다.), 그리고 추천 받고 싶은 회사의 이름을 입력하면 아래 사진들과 같이 추천을 해주는 프로그램을 만드는 것입니다.
@@ -53,11 +53,11 @@
 
   <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/data%20cleaning.PNG width="80%" height="30%">
 
-- wordcloud로 중간 작업 출력
+- Wordcloud로 중간 작업 출력
 
   <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/wordcloud.PNG width="30%" height="30%">
 
-- sentiment analysis 진행(1에 가까울수록 긍정)
+- Sentiment Analysis 진행(1에 가까울수록 긍정)
 
   <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/sentiment.PNG width="30%" height="30%">
 
