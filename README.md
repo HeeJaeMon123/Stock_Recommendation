@@ -38,7 +38,7 @@
 - Sentiment Anaylsis (완료)
 
 ## 소개 및 결과 이미지
-- 사용자가 언제부터 언제까지 크롤링 할지(예를 들어 2021-06-09부터 2021-06-12내용을 크롤링 하겠다.), 그리고 추천 받고 싶은 회사의 이름을 입력하면 감정분석을 진행하고 긍정적 tweet의 개수가 부정적 tweet의 개수의 3배 보다 많으면 추천을 해주는 프로그램을 만드는 것입니다.
+- 사용자가 언제부터 언제까지 크롤링 할지(예를 들어 2021-06-09부터 2021-06-12내용을 크롤링 하겠다.), 그리고 추천 받고 싶은 회사의 이름을 입력하면 감정분석을 진행하고 긍정적 tweet의 개수가 부정적 tweet의 개수의 3배 보다 많으면 추천을 해주는 프로그램입니다.
 <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/Buy.PNG width="30%" height="30%">
 
 <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/Not_Buy.PNG width="30%" height="30%">
