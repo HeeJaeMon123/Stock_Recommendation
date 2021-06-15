@@ -59,5 +59,7 @@
 <img src = https://github.com/HeeJaeMon123/Stock_Recommendation/blob/main/images/sentiment.PNG width="30%" height="30%">
 
 
+
 ## 참고 링크
+크롤링시 twint 사용 https://github.com/twintproject/twint
 https://github.com/erikajane/Predicting_Stock_With_Twitter_Sentiment
